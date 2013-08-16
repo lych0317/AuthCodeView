@@ -16,7 +16,7 @@
     }
     return self;
 }
-
+////
 /**
  * 亲写dataSource的setter方法，同时根据实现方式设置背景颜色或者图片View
  **/
